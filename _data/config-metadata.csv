@@ -4,6 +4,11 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+family group, Family Group
+caption, Caption
+notation, Notation
+photo color, Photo Color
+photo medium, Photo Medium
 location,Location
 latitude,Latitude
 longitude,Longitude
