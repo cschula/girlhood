@@ -1,7 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
+date,Date,
 description,Description,
 subject,Subjects,true
 family group,Family Group,true
@@ -13,11 +12,7 @@ photo color,Photo Color,true
 photo medium,Photo Medium,true
 descriptive tags,Descriptive Tags,true
 location,Location,true
-latitude,Latitude
-longitude,Longitude
 source,Source
 identifier,Source Identifier,,
-type,Type,
-format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
