@@ -7,8 +7,10 @@ subject,Subjects,true
 family group, Family Group
 caption, Caption
 notation, Notation
+contributor, Contributor
 photo color, Photo Color
 photo medium, Photo Medium
+descriptive tags, Descriptive Tags
 location,Location
 latitude,Latitude
 longitude,Longitude
