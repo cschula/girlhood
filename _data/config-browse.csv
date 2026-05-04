@@ -3,3 +3,7 @@ date,Date,true,,Date
 family group,Family,true,,Family
 subject,Subject,true,,Subject
 location,Location,true,,Location
+original folder,Original Folder,true,true
+photo color,Photo Color,true,true
+photo medium,Photo Medium,true,true
+descriptive tags,Descriptive Tags,true,true
