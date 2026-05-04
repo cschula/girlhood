@@ -4,7 +4,7 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-family group, Family Group
+family group, Family Group, true
 caption, Caption
 notation, Notation
 contributor, Contributor
