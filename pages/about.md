@@ -13,6 +13,8 @@ credits: true
 
 ## About the Collection
 
+This is a collection of family photos, curated to focus on the women in my family during childhood and moments of personal success.
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
