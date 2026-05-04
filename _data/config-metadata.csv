@@ -4,14 +4,15 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-family group, Family Group, true
-caption, Caption
-notation, Notation
-contributor, Contributor
-photo color, Photo Color
-photo medium, Photo Medium
-descriptive tags, Descriptive Tags
-location,Location
+family group,Family Group,true
+caption,Caption
+notation,Notation
+contributor,Contributor
+original folder,Original Folder,true
+photo color,Photo Color,true
+photo medium,Photo Medium,true
+descriptive tags,Descriptive Tags,true
+location,Location,true
 latitude,Latitude
 longitude,Longitude
 source,Source
